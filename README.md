@@ -1,4 +1,3 @@
-This project is part of IT326 course requirements.
 ## Project Description
 Stress is one of the most common challenges faced by students today, influencing their academic and personal life. When stress levels become excessive, they can contribute greatly to mental health issues, lower productivity, and poor performance. To address the problem, we can apply two core data analysis approaches: classification and clustering.
 
